@@ -1,0 +1,12 @@
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/bin/Debug/net6.0/Infra.IoC.deps.json
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/bin/Debug/net6.0/Infra.IoC.dll
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/bin/Debug/net6.0/ref/Infra.IoC.dll
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/bin/Debug/net6.0/Infra.IoC.pdb
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/Infra.IoC.csproj.AssemblyReference.cache
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/Infra.IoC.AssemblyInfoInputs.cache
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/Infra.IoC.AssemblyInfo.cs
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/Infra.IoC.csproj.CoreCompileInputs.cache
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/Infra.IoC.dll
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/ref/Infra.IoC.dll
+/home/renanlido/www/study/dotnet/macoratti/Infra.IoC/obj/Debug/net6.0/Infra.IoC.pdb

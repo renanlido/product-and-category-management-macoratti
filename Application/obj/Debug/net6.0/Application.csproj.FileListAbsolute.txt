@@ -1,0 +1,12 @@
+/home/renanlido/www/study/dotnet/macoratti/Application/bin/Debug/net6.0/Application.deps.json
+/home/renanlido/www/study/dotnet/macoratti/Application/bin/Debug/net6.0/Application.dll
+/home/renanlido/www/study/dotnet/macoratti/Application/bin/Debug/net6.0/ref/Application.dll
+/home/renanlido/www/study/dotnet/macoratti/Application/bin/Debug/net6.0/Application.pdb
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/Application.dll
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/ref/Application.dll
+/home/renanlido/www/study/dotnet/macoratti/Application/obj/Debug/net6.0/Application.pdb
